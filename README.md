@@ -84,6 +84,6 @@ The goal of this project is to practice **Airflow orchestration concepts**, not 
 ## 📌 Notes 
 * The project focuses on **workflow orchestration**, not real ML training 
 * Designed for learning and experimentation
-* Easily extendable into a full ETL or ML pipeline”
+* Easily extendable into a full ETL or ML pipeline
 
 
